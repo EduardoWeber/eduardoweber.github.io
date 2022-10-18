@@ -1,0 +1,47 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Eduardo Felipe Weber - Blog"
+theme: "hugo-PaperMod"
+
+params:
+    author: "Eduardo Felipe Weber"
+    homeInfoParams:
+        Title: "About me"
+        Content: >
+            - Welcome to my blog. I'm a software engineer and here I write about my current projects.
+
+            - The **goal** is to have consistent content on my project being released every week or so.
+            Having posts in form of what would be a summary of a sprint review.
+
+            - If you want to see a brief summary of my projects, you can check my [Projects](/projects) page.
+    socialIcons:
+        - name: github
+          url: "https://github.com/eduardoweber"
+        - name: KoFi
+          url: "https://ko-fi.com/eduardoweber"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/eduardofw/"
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+            projects: projects
+            category: categories
+            tag: tags
+            archive: archives
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Projects
+                  url: projects
+                  weight: 1
+                - name: Categories
+                  url: categories
+                  weight: 2
+                - name: Tags
+                  url: tags
+                  weight: 3
