@@ -6,7 +6,9 @@ tags: ["go", "twitch", "random", "api", "vue", "javascript", "typescript", "web"
 categories: ["GoTwitch"]
 ---
 
-GoTwitch is a random Twitch streamer picker. It's a simple web app that allows you to pick a random streamer using a set of filters. It's built with Go and Vue.js.
+[GoTwitch](https://gotwitch.efw.rocks/) is a random Twitch streamer picker. It's a simple web app that allows you to pick a random streamer using a set of filters. It's built with Go and Vue.js.
+
+Access the app at [https://gotwitch.efw.rocks/](https://gotwitch.efw.rocks/).
 
 ## Premise
 
