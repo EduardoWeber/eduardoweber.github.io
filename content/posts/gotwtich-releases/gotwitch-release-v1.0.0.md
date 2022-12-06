@@ -14,6 +14,8 @@ Access the app at [https://gotwitch.efw.rocks/](https://gotwitch.efw.rocks/).
 
 ### What's new 
 
+__Well everything! (this is the first release)__
+
 - Filter by game
 - Filter by language
 - Save filters on local storage

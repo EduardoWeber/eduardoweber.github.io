@@ -2,6 +2,7 @@ baseURL: "https://eduardoweber.dev/"
 languageCode: "en-us"
 title: "Eduardo Felipe Weber - Blog"
 theme: "hugo-PaperMod"
+enableEmoji: true
 
 params:
     author: "Eduardo Felipe Weber"
